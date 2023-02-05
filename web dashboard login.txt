@@ -1,0 +1,8 @@
+https://chat-bot.apps.faizath.com/admin/
+user: admin
+pass: passworddashboardtubespalingaman
+
+Step : 
+1. Copy the link above and paste to browser, to access the website seller dashboard.
+2. Enter username and password as above written.
+3. Analytics/website seller dashboard content is now visible.
